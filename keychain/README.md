@@ -1,41 +1,65 @@
-Squid Game Star Keychain
+# ⭐ Squid Game Star Keychain
 
-Description
+---
 
-This project is a 3D keychain designed using Onshape.
-The design is inspired by the star-shaped candy from the Korean series Squid Game.
+## 📌 Description
 
-The keychain consists of a circular base with a star-shaped design on the top, giving it a layered 3D appearance.
+This project is a 3D-designed keychain inspired by the iconic star-shaped Dalgona candy from the Korean series Squid Game.
 
-Design Features
+The keychain was designed and modeled using Onshape, featuring a circular base with a layered and raised star design.
 
-Circular keychain body
-Star-shaped design
-Raised inner star layer
-Hole for attaching a keychain ring
-3D model created using Onshape
+---
 
-Tools Used
+## 🛠️ Features
 
-Onshape – 3D modeling and design
+- ⭐ Five-point star design
+- 🔵 Circular keychain body
+- 📐 Layered 3D design
+- 🔗 Keychain attachment hole
+- ✨ Raised inner star
+- 🖨️ Designed for 3D printing
 
-Main Dimensions
+---
 
-Circular body diameter: 35 mm
-Body thickness: 5 mm
-Star design: centered on the circular body
-Keychain hole: approximately 4 mm diameter
+## 📏 Dimensions
 
-Modeling Steps
+| Part | Dimension |
+|---|---:|
+| Base Diameter | 35 mm |
+| Base Thickness | 5 mm |
+| Keychain Hole | 4 mm |
+| Star | Centered |
 
-Created a circular sketch for the main body.
-Extruded the circle to create the base.
-Created a star-shaped sketch on the top surface.
-Added a smaller star layer to create the raised/layered appearance.
-Extruded the smaller star to create the 3D detail.
-Added a hole for attaching the keychain ring.
-Applied the final appearance to the model.
+---
 
-Result
+## 💻 Software Used
+
+- Onshape — 3D CAD modeling
+
+---
+
+## 🔧 Modeling Steps
+
+1. Created a circular sketch for the main body.
+2. Extruded the circle to create the base.
+3. Created a five-point star on the top surface.
+4. Added a smaller star inside the main star.
+5. Extruded the smaller star to create the raised layer.
+6. Created a hole for attaching the keychain ring.
+7. Applied the final appearance to the model.
+
+---
+
+## 🔗 Onshape Model
+
+👉 [View the 3D Model on Onshape](https://cad.onshape.com/documents/f5f4c7229a4baf9a881416ec/w/83c183b3f79812effefc7965/e/9ad6abd69b31697f09569729?renderMode=0&uiState=6a7caa9e841971ec8323f746)
+
+---
+
+## ✨ Final Result
+
+A Squid Game-inspired star keychain designed and modeled from scratch using Onshape.
+
+⭐ Designed with Onshape | Inspired by Squid Game
 
 The final model is a small star-themed keychain inspired by the Squid Game candy design.
