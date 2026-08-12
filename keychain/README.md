@@ -52,7 +52,7 @@ The keychain was designed and modeled using Onshape, featuring a circular base w
 
 ## 🔗 Onshape Model
 
-👉 [View the 3D Model on Onshape](https://cad.onshape.com/documents/f5f4c7229a4baf9a881416ec/w/83c183b3f79812effefc7965/e/9ad6abd69b31697f09569729?renderMode=0&uiState=6a7caa9e841971ec8323f746)
+https://cad.onshape.com/documents/f5f4c7229a4baf9a881416ec/w/83c183b3f79812effefc7965/e/9ad6abd69b31697f09569729?renderMode=0&uiState=6a7caa9e841971ec8323f746
 
 ---
 
